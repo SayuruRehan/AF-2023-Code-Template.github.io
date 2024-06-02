@@ -9,7 +9,9 @@
 2. Use the JSON middleware.
 
 3. Install Mongoose.
+```
 npm install mongoose
+```
 
 4. Implement the following.
 ```
@@ -121,9 +123,9 @@ app.listen(port, () => {
 ```
 npm install express body-parser –save
 ```
-This will install Express.js and Body Parser, which we will use to parse incoming requests.
-
-Then create a new file called, index.js and add the following code:
+- This will install Express.js and Body Parser, which we will use to parse incoming requests.
+<br/>
+- Then create a new file called, <b>index.js</b> and add the following code:
 ```
 const express = require('express');
 const bodyParser = require('body-parser');
