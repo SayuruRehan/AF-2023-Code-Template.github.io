@@ -124,8 +124,8 @@ app.listen(port, () => {
 npm install express body-parser –save
 ```
 - This will install Express.js and Body Parser, which we will use to parse incoming requests.
-<br/>
 - Then create a new file called, <b>index.js</b> and add the following code:
+
 ```
 const express = require('express');
 const bodyParser = require('body-parser');
@@ -188,6 +188,7 @@ app.listen(port, () => {
 ```
 
 - Finally, run the file with the node command.
+
 ```
 node index.js
 ```
