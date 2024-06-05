@@ -291,6 +291,7 @@ NavBar.js:
 ```
 
 Home.js:
+
 ```
   import React from 'react';
   
@@ -302,6 +303,7 @@ Home.js:
 ```
 
 About.js:
+
 ```
   import React from 'react';
   
@@ -313,6 +315,7 @@ About.js:
 ```
 
 Contact.js:
+
 ```
   import React from 'react';
   
@@ -324,6 +327,7 @@ Contact.js:
 ```
 
 App.js:
+
 ```
   import React from 'react';
   import NavBar from './NavBar';
@@ -360,7 +364,9 @@ Create a “Banner” component that displays a promotional message or call-to-a
 Create a “Testimonial” component that displays a quote, name, and photo for a customer testimonial or review<br/></b>
 <br/>
 <br/>
+
 Footer.js:
+
 ```
 import React from 'react';
 
@@ -381,6 +387,7 @@ export default Footer;
 ```
 
 Card.js:
+
 ```
 import React from 'react';
 
@@ -398,6 +405,7 @@ export default Card;
 ```
 
 Button.js:
+
 ```
 import React from 'react';
 
@@ -411,6 +419,7 @@ export default Button;
 ```
 
 Banner.js:
+
 ```
 import React from 'react';
 
@@ -430,6 +439,7 @@ export default Banner;
 ```
 
 Testimonial.js:
+
 ```
 import React from 'react';
 
@@ -447,6 +457,7 @@ export default Testimonial;
 ```
 
 App.js:
+
 ```
 import React from 'react';
 import NavBar from './NavBar';
